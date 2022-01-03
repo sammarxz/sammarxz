@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
 I'm Sam Marxz.<br>
-I'm a designer and front-end developer 💻 ✨
+I'm a product designer and front-end developer 💻 ✨
 
 <ul>
-  <li>🚀 ┇I’m currently working at Scriptcase </li>
+  <li>🚀 ┇I’m currently working as Mid-level product designer at @Yampi </li>
   <li>💜 ┇ReactJS
   <li>🌱 ┇I’m currently learning Full-stack React development</li>
   <li>😍 ┇Passionate about education and problem solution through programming;</li>
