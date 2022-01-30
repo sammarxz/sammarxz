@@ -33,7 +33,7 @@ I'm a product designer and front-end developer 💻 ✨
 
 <div align="between">
     <a href="https://github.com/sammarxz">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sammarxz&theme=light&show_icons=true&icon_color=6A7CE2&locale=pt-br" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammarxz&repo=convoychat&theme=light&show_icons=true&layout=compact&locale=pt-br"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sammarxz&theme=light&show_icons=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammarxz&theme=light&show_icons=true&layout=compact"/>
     </a>
   </div>
