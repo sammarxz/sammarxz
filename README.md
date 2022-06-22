@@ -23,7 +23,7 @@ I'm Sam Marxz.<br>
 I'm a product designer and front-end developer 💻 ✨
 
 <ul>
-  <li>🚀 ┇I’m currently working as Mid-level product designer at @Yampi </li>
+  <li>🚀 ┇I’m currently working as Mid-level front-end developer at @zenvia </li>
   <li>💜 ┇ReactJS
   <li>🌱 ┇I’m currently learning Full-stack React development</li>
   <li>😍 ┇Passionate about education and problem solution through programming;</li>
